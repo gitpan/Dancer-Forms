@@ -6,7 +6,7 @@ WriteMakefile(
               'VERSION_FROM' => 'lib/Dancer/Forms.pm',
               'PREREQ_PM'    => {
                                   'Digest::SHA'         => 1.00,
-                                  'Data::FormValidator' => 4.70,
+                                  'Data::FormValidator' => 4.66,
                                 },
               'AUTHOR'       => 'T. Linden <tlinden@cpan.org>',
               'clean'        => {

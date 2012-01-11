@@ -1,5 +1,5 @@
 package Dancer::Forms;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Data::FormValidator;
 use Data::FormValidator::Constraints;
@@ -1332,7 +1332,7 @@ why not doing it in a secure way?
 
 =over
 
-=item add unit tests
+=item add more unit tests
 
 =back
 
@@ -1376,7 +1376,7 @@ T. Linden <tlinden |AT| cpan.org>
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
 
